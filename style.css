@@ -218,3 +218,17 @@ header a {
 }
 
 /* section 2 end */
+
+/* footer */
+footer{
+    text-align: center;
+    color: gray;
+    padding: 15px;
+}
+
+footer a{
+    text-decoration: none;
+    color: rgb(189, 185, 185);
+    font-weight: bold;
+}
+/* footer end */
